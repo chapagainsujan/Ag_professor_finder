@@ -268,7 +268,7 @@ The short version is below. The long version, with the loading model, frontmatte
 ## Contributing, license, credits
 
 - Contributions: see [`CONTRIBUTING.md`](CONTRIBUTING.md).
-- License: [MIT](LICENSE). Replace `[YOUR NAME]` in `LICENSE` and `SKILL.md` with your name.
+- License: [MIT](LICENSE).
 - Built with [Claude](https://claude.ai) by Anthropic.
 - AI-writing patterns: Wikipedia's [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), maintained by WikiProject AI Cleanup.
 - The structure of the two projects that inspired this one, a spreadsheet-based professor finder and ProfRadar, informed the workflow design. This repository contains none of their code.
