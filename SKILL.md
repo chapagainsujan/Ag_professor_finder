@@ -1,6 +1,12 @@
 ---
 name: ag-professor-finder
-description: Find agriculture faculty in the US, Canada and Australia who match a student's background, research live-checked projects, publications and funding for each one, and draft a human-sounding cold email. Use when a student wants an agriculture, crop, soil, horticulture, plant pathology, animal science or food science supervisor, shares a CV or background, or asks for a professor's current research or grants.
+description: Finds agriculture professors in the US, Canada and Australia who fit a student's CV or background, researches each one's current projects, papers from the last 3 years, research direction and public funding (NIFA, NSERC, ARC, GRDC and others), and drafts a human-sounding cold email. Use whenever a student wants a graduate supervisor, MSc or PhD advisor, or research position in agriculture, crop science, plant pathology, soil, horticulture, animal science or food science, shares a CV, asks to find or research a professor, asks about a professor's grants or recent papers, or wants a cold email to a professor, even if they never say "skill".
+license: MIT
+compatibility: Needs web search and page fetching. Optional Python 3 for scripts/slop_check.py (offline) and scripts/openalex_lookup.py (needs internet access to api.openalex.org).
+metadata:
+  version: "1.0.0"
+  author: "[YOUR NAME]"
+  countries: "United States, Canada, Australia"
 ---
 
 # Ag Professor Finder
